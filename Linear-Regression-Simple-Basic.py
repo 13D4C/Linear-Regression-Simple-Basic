@@ -1,7 +1,7 @@
 //libray ที่เราจะใช้มี 4 อย่างก็คือ 
 1.Pandas มาใช้อ่านข้อมูล 
 2.Matplotlib จะใช้ในการสร้างกราฟ 
-3.ผมโหลด sklearn เพื่อโหลดโมเดล มาใช้ ซึ่งมี2ตัว LinearRegression เพื่อใช้คาดคะเนโอกาสในอนาคต ส่วน metrics ใช้ตรวจสอบโอกาสคคาดเคลื่อนของการคาดคะเน
+3.ผมโหลด sklearn เพื่อโหลดโมเดล มาใช้ ซึ่งมี2ตัว LinearRegression เพื่อใช้คาดคะเนโอกาสในอนาคต ส่วน metrics ใช้ตรวจสอบโอกาสคคาดเคลื่อนของการคาดคะเน//
 import pandas as pd
 import matplotlib as plt
 from sklearn.linear_model import linearRegression
